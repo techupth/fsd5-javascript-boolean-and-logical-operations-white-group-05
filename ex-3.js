@@ -6,4 +6,4 @@ const numberB = "20";
 
 numberA = 10;
 
-console.log(`Sum: ${Number(numberA) + Number(numberB)}`);
+console.log(`Sum: ${numberA + numberB}`);
